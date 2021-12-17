@@ -21,7 +21,7 @@ At the age of 18, my dad convinced me to try out Power Apps and I found a love f
 
 At 20, I became the youngest woman ever to have been recognised with a Microsoft Most Valuable Professional (MVP) Award.
 
-Today, I work full time as a Power Platform dev and also run free workshops and events in partnership with businesses, schools and universities. They are a passionate mental health advocate and are determined to empower young minorities to pursue a career in technology.
+Today, I work full time as a Power Platform dev and also run free workshops and events in partnership with businesses, schools and universities. I am a passionate mental health advocate and am determined to empower young minorities to pursue a career in technology.
 
 <!-- facts -->
 ### Fun Facts

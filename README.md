@@ -13,7 +13,7 @@
 </p>
 
 <!-- bio -->
-My name is Ashlee Culmsee (they/she) and I'm a 23 year old nonbinary woman working with the Power Platform as a senior developer and trainer.
+My name is Ashlee Culmsee (they/she) and I'm a 24 year old nonbinary woman working with the Power Platform as a senior developer and trainer.
 
 In three years, I went from a teenager with severe social anxiety and no interest in IT to an internationally-recognized app developer who creates cost-saving apps for household names.
 

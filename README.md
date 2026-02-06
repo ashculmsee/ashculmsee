@@ -13,7 +13,7 @@
 </p>
 
 <!-- bio -->
-My name is Ashlee Culmsee (they/them) and I'm a 24 year old nonbinary 'woman' working with the Power Platform as a senior developer and trainer.
+My name is Ash Culmsee (they/them) and I'm a 27 year old nonbinary 'woman' working with the Power Platform as a senior developer and trainer.
 
 In three years, I went from a teenager with severe social anxiety and no interest in IT to an internationally-recognized app developer who creates cost-saving apps for household names.
 
@@ -27,7 +27,6 @@ Today, I work full time as a Power Platform dev and also run free workshops and 
 ### Fun Facts
 - 😸 I have two cats (Freddie Purrcury & Lulu)
 - 🏳️‍🌈 I am bisexual & agender/nonbinary
-- 💚 I work at <a href="https://www.linkedin.com/company/sevensigma-business-solutions">Seven Sigma Business Solutions</a>
 - 🧠 I am open about my struggles with Borderline Personality Disorder, Anxiety, and Depression, as I am constantly working to #StopTheStigma surrounding mental illnesses
 
 <!--dashboards-->
